@@ -24,5 +24,11 @@ This code allows you to compute and save a COALS model for a text document. The 
 - Otherwise, directaly launch the "getSemSpace" function with your text
 - Keep in mind that a considerable size of RAM is needed, make sure you have enough left for your system.
 
-For further questions or inquiries about this code, you can contact:
-- abdennourbenhamida09@gmail.com
+For further questions or inquiries about this code, you can contact: i_ouahrani@univ-blida.dz
+
+======================= 4. Citation Info
+Ouahrani, Leila and Bennouar, Djamal, "A Vector Space-Based Approach for Short Answer Grading System," 2018 International Arab Conference on Information Technology (ACIT), Werdanye, Lebanon, 2018, pp. 1-9, doi: 10.1109/ACIT.2018.8672717. keywords: {Semantics;Correlation;Task analysis;Computational modeling;Coal;Syntactics;Data models;short answer grading;semantic word space;semantic similarity;word representation;term-weighting;Arabic language;corpus;statistical similarity},
+
+
+
+ 
