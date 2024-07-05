@@ -29,7 +29,7 @@ For further questions or inquiries about this code, you can contact: l_ouahrani@
 ======================= 4. Citation Info
 
 
-@InProceedings{Ouahrani, L. and Bennouar, D., "A Vector Space-Based Approach for Short Answer Grading System," 2018 International Arab Conference on Information Technology (ACIT), Werdanye, Lebanon, 2018, pp. 1-9, doi: 10.1109/ACIT.2018.8672717. keywords: {Semantics;Correlation;Task analysis;Computational modeling;Coal;Syntactics;Data models;short answer grading;semantic word space;semantic similarity;word representation;term-weighting;Arabic language;corpus;statistical similarity},
+@InProceedings{Ouahrani, L. and Bennouar, D., "A Vector Space-Based Approach for Short Answer Grading System," 2018 International Arab Conference on Information Technology (ACIT), Werdanye, Lebanon, 2018, pp. 1-9, doi: [10.1109/ACIT.2018.8672717](https://ieeexplore.ieee.org/abstract/document/8672717). keywords: {Semantics;Correlation;Task analysis;Computational modeling;Coal;Syntactics;Data models;short answer grading;semantic word space;semantic similarity;word representation;term-weighting;Arabic language;corpus;statistical similarity},
 
 
 
